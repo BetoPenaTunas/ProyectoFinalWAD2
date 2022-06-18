@@ -1,0 +1,61 @@
+.inisead{
+    background-color: #FFF0C9;
+    height: 800px;
+}
+
+.cajalogad{
+    margin-left: 600px;
+    padding-top: 200px;
+}
+
+.posi{
+    padding-top: 250px;
+}
+
+.bt2{
+    font-size: 2rem !important;
+    width: 100%;
+}
+
+.bt2:hover{
+    background-color: #7a3f04 !important;
+}
+
+.dropdown-menu {
+    width: 100%;
+    background-color: #FF3F0D;
+}
+
+.dropdown-item{
+    color:white;
+}
+
+.boton{
+    background-color: #555151 !important;
+    color:white;
+}
+.aviso{
+    color: blue;
+}
+
+.cajalog2{
+    height: 900px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+#margincaja{
+    
+    margin-top: 100px;
+    
+}
+
+.ov{
+    width: 300px;
+    overflow: auto;
+}
+
+#eliminarCl{
+    
+    height:850px;
+}
